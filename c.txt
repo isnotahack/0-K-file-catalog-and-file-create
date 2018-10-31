@@ -1,0 +1,17 @@
+C:\Windows\addins
+C:\Windows\AppCompat
+C:\Windows\AppPatch
+C:\Windows\bfsvc.exe
+C:\Windows\Boot
+C:\Windows\Branding
+C:\Windows\CSC
+C:\Windows\Cursors
+C:\Windows\debug
+C:\Windows\diagnostics
+C:\Windows\DigitalLocker
+C:\Windows\Downloaded Program Files
+C:\Windows\DtcInstall.log
+C:\Windows\ehome
+C:\Windows\en-US
+C:\Windows\Enterprise.xml
+C:\Windows\explorer.exe
